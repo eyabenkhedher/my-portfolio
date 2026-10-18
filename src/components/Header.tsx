@@ -53,7 +53,7 @@ export default function Header() {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-2xl overflow-hidden border-4 border-slate-700 shadow-2xl">
                 <img
-                  src="/eya_ben_khedher.jpg"
+                  src="/eya_ben_khedher.png"
                   alt="Eya Ben Khedher"
                   className="w-full h-full object-cover"
                 />
